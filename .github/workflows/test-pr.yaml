@@ -40,8 +40,6 @@ jobs:
             haskell: ./**/haskell/**
             hugo: ./**/hugo/**
             javascript-node-azurite: ./**/javascript-node-azurite/**
-            julia: ./**/julia/**
-            jupyter-datascience-notebooks: ./**/jupyter-datascience-notebooks/**
             mit-scheme: ./**/mit-scheme/**
             perl: ./**/perl/**
             puppet: ./**/puppet/**
