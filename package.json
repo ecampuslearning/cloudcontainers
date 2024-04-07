@@ -1,12 +1,12 @@
 {
-	"name": "vscode-dev-containers",
+	"name": "cloudcontainers",
 	"version": "0.245.2",
-	"description": "VS Code Dev Containers: Definitions and Templates",
+	"description": "Cloud Containers Definitions and Templates",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-dev-containers.git"
+		"url": "https://github.com/ecampuslearning/cloudcontainers.git"
 	},
-	"author": "Microsoft Corporation",
+	"author": "ecampuslearning ",
 	"license": "SEE LICENSE IN LICENSE.md",
 	"files": [
 		"containers",
